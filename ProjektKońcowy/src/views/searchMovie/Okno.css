@@ -1,0 +1,25 @@
+.Overlay
+{
+    position: fixed;
+    background-color: darkgray;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.Okno
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 0);
+}
+
+.Card
+{
+    width: 150px;
+    height: 150px;
+    background-color: darkgray
+   
+}
